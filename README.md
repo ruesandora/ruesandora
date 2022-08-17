@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/RIAOV7vXdehyGB6tIg/giphy.gif" align="right" width="350" height="250">
+<img src="https://media.giphy.com/media/RIAOV7vXdehyGB6tIg/giphy.gif" align="right" width="400" height="300">
 
 ### Hi there, I'm Rues. 
 
