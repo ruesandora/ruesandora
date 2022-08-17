@@ -4,7 +4,7 @@
 
 ## Community Manager | Content Creator
 
-<font color="pink">Layer-1 Maxi :atom_symbol: </font>
+<font color="pink">Build :atom_symbol: </font>
 
 
 ## Reach out to me
