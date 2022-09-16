@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/RIAOV7vXdehyGB6tIg/giphy.gif" align="right" width="400" height="300">
+<img src="https://media.giphy.com/media/RIAOV7vXdehyGB6tIg/giphy.gif" align="right" width="300" height="250">
 
 ## Reach out to me
 
