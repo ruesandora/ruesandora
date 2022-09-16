@@ -1,11 +1,5 @@
 <img src="https://media.giphy.com/media/RIAOV7vXdehyGB6tIg/giphy.gif" align="right" width="400" height="300">
 
-### Hi there, I'm Rues. 
-
-## Community Manager | Content Creator
-
-<font color="pink">Build :atom_symbol: </font>
-
 ## Reach out to me
 
 <a href="https://twitter.com/Ruesandora0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zaferayan" height="30" width="40" /></a>
