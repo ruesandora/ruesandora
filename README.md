@@ -10,6 +10,8 @@ I run **[Rueseo](https://ruesandora.com/)**: business development, SEO, GEO, AEO
 [![Email](https://img.shields.io/badge/info%40ruesandora.com-111111?style=flat-square&logo=maildotru&logoColor=white)](mailto:info@ruesandora.com)
 [![X](https://img.shields.io/badge/%40ruesandora0-111111?style=flat-square&logo=x&logoColor=white)](https://x.com/ruesandora0)
 [![Telegram](https://img.shields.io/badge/ruesandora-111111?style=flat-square&logo=telegram&logoColor=white)](https://t.me/ruesandora)
+[![Instagram](https://img.shields.io/badge/%40ruesandora0-111111?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/ruesandora0)
+[![YouTube](https://img.shields.io/badge/%40ruesandora0-111111?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@ruesandora0)
 
 ## Services
 
