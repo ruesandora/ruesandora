@@ -1,5 +1,5 @@
 <a href="https://ruesandora.com/">
-  <img src="https://ruesandora.com/og/rueseo-en.png" alt="Rueseo: work found in search, named in answers. ruesandora.com" width="100%" />
+  <img src="https://ruesandora.com/og/rueseo-banner-en.png" alt="Rueseo: work that's found when searched, cited when asked" width="100%" />
 </a>
 
 ## Hi, I'm Rues
